@@ -52,7 +52,7 @@ A = A + diag(BC_skip_R,1) + diag(BC_skip_L,-1); %correction
 %Fixing boundary conditions:
 %Dirichlet gives zero contribution (zero potential) - no change.
 %Neumann gives contribution of same potential times nr of adjacent bounds.
-%Inner conductor has potential zero - Add to source vector c.
+%Inner conductor has potential one - Add to source vector c.
 for nn = 1:n^2
     if nn >= n^2 - (n-1) %bottom row, y
         A(nn,nn) = A(nn,nn)+1; %Neumann
