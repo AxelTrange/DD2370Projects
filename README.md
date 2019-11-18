@@ -8,3 +8,5 @@ Assignment 1 -> Contains Convergence test (the first assignment).
 
 Assignment 2 -> Contains Finite Difference Matrix code and FDTD codes (second assignment).
 
+Assignment 3 -> Contains Finite Element codes with plots & a simple sparse matrix implementation (3rd assignment).
+
