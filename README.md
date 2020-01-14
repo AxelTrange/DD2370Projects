@@ -12,4 +12,4 @@ Assignment 3 -> Contains Finite Element codes with plots & a simple sparse matri
 
 Assignment 4 -> Contains Method of Moments codes to find the current density through matrix operations (4th assignment).
 
-PROJECT -> Contains the course project - using FEM to find cutoff frequencies and fields of different modes of a rectangular waveguide and a ridge waveguide.
+PROJECT -> Contains the course project - using FEM to find cutoff frequencies and fields of different modes of a rectangular waveguide and a ridge waveguide. NOTE: Run MainX.m.
